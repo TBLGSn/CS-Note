@@ -38,6 +38,7 @@ nav:
     - 287: 287.md 
   - hash:
     - introduction: hash.md
+    - 442数组中重复的数据: 442.md
     - 560: 560.md
     - 1161: 1161.md
   - sort:
